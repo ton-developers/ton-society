@@ -40,10 +40,10 @@ This standard proposal aims to align the metadata of SBTs issued on TON both by 
       "label": "Open in TON Society",
       "uri": "https://society.ton.org/welcome"
     }
-  ]
+  ],
   "activity_type": "Event",
   "organizer": "TON Society Asia",
-  "original_activity_url": "https://lu.ma/9ovl6qeq"
+  "original_activity_url": "https://lu.ma/9ovl6qeq",
   "start_date_iso": "2024-02-22",
   "end_date_iso": "2024-02-22",
   "place": { 
