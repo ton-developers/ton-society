@@ -2,7 +2,7 @@
 For onchain analytics of user activities we need to add information about the activity inside an SBT.
 This standard proposal aims to align the metadata of SBTs issued on TON both by TON Society and ecosystem projects.
 
-> It's important to use **one collection for each activity** and put there only SBT's related to exact this activity.
+> It's important to use **one collection for each activity reward** and put there only SBT's related to exact this reward.
 
 ## Collection metadata
 ```json
